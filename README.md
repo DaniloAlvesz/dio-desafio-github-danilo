@@ -1,6 +1,6 @@
-# Repositorio desafio de projeto GitHub
-Repositorio criado para o desafio de projeto GitHub daa DIO
+# Desafio de Projeto Git/GitHub
+Repositorio criao para o desafio de projeto
 
-##Links Uteis
+## Links Uteis
 
 [Markdown](https://www.markdownguide.org/getting-started/)
